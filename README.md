@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huynhbavinh
 - 👀 I’m interested in reading, movie, coding
 - 🌱 I’m currently studying at VLU
-- 📫 i'm learning around php, java, Csharp, javascript
+- 📫 i'm learning around php, javascript
 - 💞️ I’m looking to collaborate on Software engineering
 - 📫 How to reach me fb.com/toilabavinh - bavinh.congviec@gmail.com
 
